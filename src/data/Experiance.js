@@ -1,6 +1,14 @@
 const  experiance = [
   {
-    period :"2025 - Present" ,
+    period :"Present" ,
+    rol:"Freelance Developer",
+    company :"Independent Contractor.",
+    desc :"Delivered custom web solutions for small businesses and startups. Built 5+ websites and applications, handling everything from design to deployment.",
+    tech :["JavaScript","Jquery","WordPress","Bootstarp"] ,
+    current:false
+  } ,
+  {
+    period :"Apr 2025 - Jan 2026" ,
     rol:"Front-End Developer",
     company :"TQNIA for Information Technology Company.",
     desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
@@ -8,12 +16,12 @@ const  experiance = [
     current:true
   } ,
   {
-    period :"2024 - 2025" ,
-    rol:"Freelance Developer",
-    company :"Independent Contractor.",
-    desc :"Delivered custom web solutions for small businesses and startups. Built 5+ websites and applications, handling everything from design to deployment.",
-    tech :["JavaScript","Jquery","WordPress","Bootstarp"] ,
-    current:false
+    period :"Feb 2024 - Mar 2025" ,
+    rol:"Front-End Developer",
+    company :"Quickly Company.",
+    desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
+    tech :["React" , "RTX" , "Tanstack Query" , "Formik"] ,
+    current:true
   } ,
   {
     period :"2023 - 2024" ,
