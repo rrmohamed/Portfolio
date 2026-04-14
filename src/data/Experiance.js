@@ -11,7 +11,7 @@ const  experiance = [
     period :"Apr 2025 - Jan 2026" ,
     rol:"Solution Architect - Pre-Sales",
     company :"TQNIA for Information Technology Company.",
-    desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
+    desc :"Translates business requirements into scalable technical solutions and delivers demos and proposals aligned with client needs." ,
     tech :["React" , "JavaScript" , "Bootstrap" , "TailwindCss"] ,
     current:false
   } ,
