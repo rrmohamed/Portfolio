@@ -1,28 +1,28 @@
 const  experiance = [
   {
     period :"Present" ,
-    rol:"Freelance Developer",
-    company :"Independent Contractor.",
+    rol:"Front-End Developer (Part-Time)",
+    company :"Amr Tech.",
     desc :"Delivered custom web solutions for small businesses and startups. Built 5+ websites and applications, handling everything from design to deployment.",
     tech :["JavaScript","Jquery","WordPress","Bootstarp"] ,
-    current:false
+    current:true
   } ,
   {
     period :"Apr 2025 - Jan 2026" ,
-    rol:"Front-End Developer",
+    rol:"Solution Architect - Pre-Sales",
     company :"TQNIA for Information Technology Company.",
     desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
     tech :["React" , "JavaScript" , "Bootstrap" , "TailwindCss"] ,
-    current:true
+    current:false
   } ,
-  {
-    period :"Feb 2024 - Mar 2025" ,
-    rol:"Front-End Developer",
-    company :"Quickly Company.",
-    desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
-    tech :["React" , "RTX" , "Tanstack Query" , "Formik"] ,
-    current:true
-  } ,
+  // {
+  //   period :"Feb 2024 - Mar 2025" ,
+  //   rol:"Front-End Developer",
+  //   company :"Quickly Company.",
+  //   desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
+  //   tech :["React" , "RTX" , "Tanstack Query" , "Formik"] ,
+  //   current:true
+  // } ,
   {
     period :"2023 - 2024" ,
     rol:"Trainee",
