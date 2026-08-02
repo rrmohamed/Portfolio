@@ -30,8 +30,8 @@ const projects = [
     image : ECMD,
     // image : "../assets/images/ECDM.png" ,
     tags :["vanilla JS" , "Bootstrap" , "Jquery" , "Swiper" , "Slick Slider"] ,
-    link :"https://amr-rashad.github.io/Electrical-Solutions/",
-    github :"https://github.com/Amr-Rashad/Electrical-Solutions"
+    link :"https://ecdmsolutions.com/",
+    github :"https://github.com/rrmohamed/Electrical-Solutions"
   } ,
   {
     title : "Color-Picker-Platform",

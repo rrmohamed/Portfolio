@@ -15,14 +15,14 @@ const  experiance = [
     tech :["React" , "JavaScript" , "Bootstrap" , "TailwindCss"] ,
     current:false
   } ,
-  // {
-  //   period :"Feb 2024 - Mar 2025" ,
-  //   rol:"Front-End Developer",
-  //   company :"Quickly Company.",
-  //   desc :"Builds responsive and interactive web interfaces using React and JavaScript, focusing on user experience and performance",
-  //   tech :["React" , "RTX" , "Tanstack Query" , "Formik"] ,
-  //   current:true
-  // } ,
+  {
+    period :"Feb 2024 - Mar 2025" ,
+    rol:"Front-End Developer",
+    company :"Quickly Company.",
+    desc :"Builds responsive and interactive web interfaces using React and Next.js, focusing on user experience and performance",
+    tech :["React" , "Next.js" , "TypeScript" , "RTK"] ,
+    current:false
+  } ,
   {
     period :"2023 - 2024" ,
     rol:"Trainee",
