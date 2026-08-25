@@ -18,7 +18,7 @@ const  experiance = [
   {
     period :"Oct 2024 - Mar 2025" ,
     rol:"Front-End Developer Intern",
-    company :"Quickly Company.",
+    company :"TQNIA for Information Technology Company.",
     desc :"Builds responsive and interactive web interfaces using React and Next.js, focusing on user experience and performance",
     tech :["React" , "Next.js" , "TypeScript" , "RTK"] ,
     current:false
