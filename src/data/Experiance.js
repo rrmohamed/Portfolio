@@ -1,7 +1,7 @@
 const  experiance = [
   {
     period :"Present" ,
-    rol:"Front-End Developer (Part-Time)",
+    rol:"Front-End Developer (Freelance)",
     company :"Amr Tech.",
     desc :"Delivered custom web solutions for small businesses and startups. Built 5+ websites and applications, handling everything from design to deployment.",
     tech :["JavaScript","Jquery","WordPress","Bootstarp"] ,
@@ -16,13 +16,21 @@ const  experiance = [
     current:false
   } ,
   {
-    period :"Feb 2024 - Mar 2025" ,
-    rol:"Front-End Developer",
+    period :"Oct 2024 - Mar 2025" ,
+    rol:"Front-End Developer Intern",
     company :"Quickly Company.",
     desc :"Builds responsive and interactive web interfaces using React and Next.js, focusing on user experience and performance",
     tech :["React" , "Next.js" , "TypeScript" , "RTK"] ,
     current:false
   } ,
+  // {
+  //   period :"Feb 2024 - Mar 2025" ,
+  //   rol:"Front-End Developer",
+  //   company :"Quickly Company.",
+  //   desc :"Builds responsive and interactive web interfaces using React and Next.js, focusing on user experience and performance",
+  //   tech :["React" , "Next.js" , "TypeScript" , "RTK"] ,
+  //   current:false
+  // } ,
   {
     period :"2023 - 2024" ,
     rol:"Trainee",
